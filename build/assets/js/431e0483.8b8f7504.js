@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkvc_notes=self.webpackChunkvc_notes||[]).push([[824],{7393:function(e){e.exports=JSON.parse('{"permalink":"/vc-notes/build/blog/tags/facebook","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
