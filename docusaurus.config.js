@@ -9,7 +9,7 @@ const config = {
   title: 'VC Notes',
   tagline: 'W3C Verifiable Credentials',
   url: 'https://vc-notes.github.io',
-  baseUrl: '/',
+  baseUrl: '/vc-notes/build/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
