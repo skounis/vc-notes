@@ -19,6 +19,10 @@ Create and manage decentralized identifiers + verifiable credentials without wor
 npm i @veramo/cli -g
 ```
 
+### TODO
+1. [ ] [Setup and Deploy an Agent on Heroku](https://veramo.io/docs/dev_tools/agent_explorer) 
+2. [ ] [Explore the agent](https://explore.veramo.dev)
+
 ## [Identity](https://www.identity.com)
 
 > Decentralized Identity Verification
@@ -41,6 +45,9 @@ Build and deploy self-sovereign identity solutions, with the technology and go-t
 
 ## Libraries
 * [Verifiable Credentials JS Library (@digitalbazaar/vc)](https://github.com/digitalbazaar/vc-js)
+* [did-jwt-vc](https://github.com/decentralized-identity/did-jwt-vc) - Create and verify W3C Verifiable Credentials and Presentations in JWT format
+* [Verifiable Credential Library](https://www.npmjs.com/package/@cef-ebsi/verifiable-credential) - Create and verify EBSI-compliant W3C Verifiable Credentials in JWT format.
+8 [Identity.com Verifiable Credential Library](https://www.npmjs.com/package/@identity.com/credential-commons) - Javascript Library provides functionality around Verifiable Credentials (VC) `WIP`
 ## Articles
 
 * [Verifiable Credentials The Ultimate Beginners Guide!](https://tykn.tech/verifiable-credentials/)
