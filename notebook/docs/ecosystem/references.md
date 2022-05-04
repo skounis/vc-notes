@@ -51,3 +51,4 @@ Build and deploy self-sovereign identity solutions, with the technology and go-t
 ## Articles
 
 * [Verifiable Credentials The Ultimate Beginners Guide!](https://tykn.tech/verifiable-credentials/)
+* [ISO/IEC 18013-5 vs Self-Sovereign Identity: A proposal for an mDL Verifiable Credential](https://www.procivis.ch/post/iso-iec-18013-5-vs-self-sovereign-identity-a-proposal-for-an-mdl-verifiable-credential#To-Top) 
