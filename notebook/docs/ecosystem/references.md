@@ -43,6 +43,13 @@ From the creators of Hyperledger Indy and Sovrin
 
 Build and deploy self-sovereign identity solutions, with the technology and go-to-market resources powering the largest implementations of digital credentials in production.
 
+
+## [dock.io](https://www.dock.io/)
+Dock Certs is an all-in-one suite of Verifiable Credential (VC) tools built for organizations to issue digital credentials and certificates that are automatically and instantly verifiable, fraud-proof and auditable.
+
+* [Verifiable Credentials: The Ultimate Guide 2022](https://www.dock.io/post/verifiable-credentials)
+* [Manage VC online](https://certs.dock.io/dashboard)
+
 ## Libraries
 * [Verifiable Credentials JS Library (@digitalbazaar/vc)](https://github.com/digitalbazaar/vc-js)
 * [did-jwt-vc](https://github.com/decentralized-identity/did-jwt-vc) - Create and verify W3C Verifiable Credentials and Presentations in JWT format
