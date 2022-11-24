@@ -30,7 +30,7 @@ const config = {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/skounis/vc-notes/blob/main/docs/',
+            'https://github.com/skounis/vc-notes/blob/main/notebook/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
