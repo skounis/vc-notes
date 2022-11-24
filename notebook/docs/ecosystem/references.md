@@ -48,6 +48,10 @@ Build and deploy self-sovereign identity solutions, with the technology and go-t
 * [did-jwt-vc](https://github.com/decentralized-identity/did-jwt-vc) - Create and verify W3C Verifiable Credentials and Presentations in JWT format
 * [Verifiable Credential Library](https://www.npmjs.com/package/@cef-ebsi/verifiable-credential) - Create and verify EBSI-compliant W3C Verifiable Credentials in JWT format.
 8 [Identity.com Verifiable Credential Library](https://www.npmjs.com/package/@identity.com/credential-commons) - Javascript Library provides functionality around Verifiable Credentials (VC) `WIP`
+9. [ethr DID Resolver](https://github.com/decentralized-identity/ethr-did-resolver)  
+This library is intended to use ethereum addresses or secp256k1 publicKeys as fully self-managed [Decentralized Identifiers](https://w3c.github.io/did-core/#identifier) and wrap them in a [DID Document](https://w3c.github.io/did-core/#did-document-properties)
+
+
 ## Articles
 
 * [Verifiable Credentials The Ultimate Beginners Guide!](https://tykn.tech/verifiable-credentials/)
