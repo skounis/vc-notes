@@ -65,3 +65,4 @@ Maybe interesting to have a look at it and their SDK (for future backlog item)
 
 * [Verifiable Credentials The Ultimate Beginners Guide!](https://tykn.tech/verifiable-credentials/)
 * [ISO/IEC 18013-5 vs Self-Sovereign Identity: A proposal for an mDL Verifiable Credential](https://www.procivis.ch/post/iso-iec-18013-5-vs-self-sovereign-identity-a-proposal-for-an-mdl-verifiable-credential#To-Top) 
+* [Paul’s notes on how JSON-LD works](https://paulfrazee.medium.com/pauls-notes-on-how-json-ld-works-965732ea559d)
