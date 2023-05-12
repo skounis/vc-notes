@@ -8,6 +8,9 @@ sidebar_position: 1
 * [Verifiable Credentials Data Model v1.1](https://www.w3.org/TR/vc-data-model/)
 * [Decentralized Identifiers (DIDs) v1.0](https://www.w3.org/TR/did-core/)
 
+## JWT  IANA
+* [JSON Web Token (JWT)](https://www.iana.org/assignments/jwt/jwt.xhtml)
+
 
 ## [Veramo](https://veramo.io)
 
