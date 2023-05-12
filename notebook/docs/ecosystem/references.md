@@ -59,6 +59,8 @@ Dock Certs is an all-in-one suite of Verifiable Credential (VC) tools built for 
 This library is intended to use ethereum addresses or secp256k1 publicKeys as fully self-managed [Decentralized Identifiers](https://w3c.github.io/did-core/#identifier) and wrap them in a [DID Document](https://w3c.github.io/did-core/#did-document-properties)
 * [SIOP-OpenID4VP](https://github.com/Sphereon-Opensource/SIOP-OpenID4VP)  
 Maybe interesting to have a look at it and their SDK (for future backlog item)
+* [SD-JWT: Selective Disclosure for JWTs](https://github.com/oauth-wg/oauth-selective-disclosure-jwt#implementations)
+* [SD-JWT Implementation in Kotlin](https://github.com/IDunion/SD-JWT-Kotlin)
 
 
 ## Articles
