@@ -19,7 +19,7 @@ Highlights:
 
 > The design and build of credential ecosystems are 75% governance rules and 25% technology. 
 
-### Trusted List Example
+#### Trusted List Example
 *  [EBSI Trusted Issuers List](https://ec.europa.eu/digital-building-blocks/wikis/display/EBSIDOC/Issuers+trust+model+-+Accreditation+of+Issuers)
 
-
+### [EU Wallet In Depth #2: No PID, No Problem.](https://www.linkedin.com/pulse/eu-wallet-depth-2-pid-problem-andrew-tobin/)  
