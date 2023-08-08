@@ -20,6 +20,6 @@ Highlights:
 > The design and build of credential ecosystems are 75% governance rules and 25% technology. 
 
 ### Trusted List Example
-*  [EBSI Trusted Issuers List](https://ec.europa.eu/digital-building-blocks/wikis/display/EBSIDOC/Issuers+trust+model+-+Accreditation+of+Issuers)https://ec.europa.eu/digital-building-blocks/wikis/display/EBSIDOC/Issuers+trust+model+-+Accreditation+of+Issuers
+*  [EBSI Trusted Issuers List](https://ec.europa.eu/digital-building-blocks/wikis/display/EBSIDOC/Issuers+trust+model+-+Accreditation+of+Issuers)
 
 
