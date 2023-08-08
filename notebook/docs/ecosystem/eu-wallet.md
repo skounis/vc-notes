@@ -7,11 +7,11 @@ sidebar_position: 2
 ## In-Depth Articles
 ### [EU Wallet In Depth #1: Trusted Lists](https://www.linkedin.com/pulse/eu-wallet-depth-1-trusted-lists-andrew-tobin/)  
 Challenges:
-  * Number of Trusted Lists and Architectural Complexity
-  * Internationalization
-  * Trusted List of Trusted Lists  
-  _Possible primary ecosystem attack vector_
-  * Who polices the Trusted Lists 
+* Number of Trusted Lists and Architectural Complexity
+* Internationalization
+* Trusted List of Trusted Lists  
+_Possible primary ecosystem attack vector_
+* Who polices the Trusted Lists 
 
 Highlights:
 
@@ -23,3 +23,9 @@ Highlights:
 *  [EBSI Trusted Issuers List](https://ec.europa.eu/digital-building-blocks/wikis/display/EBSIDOC/Issuers+trust+model+-+Accreditation+of+Issuers)
 
 ### [EU Wallet In Depth #2: No PID, No Problem.](https://www.linkedin.com/pulse/eu-wallet-depth-2-pid-problem-andrew-tobin/)  
+Challenges:
+* ...
+
+Highlights:
+
+> The EUDIW can be used for all sorts of use cases without the citizen having to first load it with a government-certified identity credential (`PID`)
