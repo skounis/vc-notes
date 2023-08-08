@@ -23,9 +23,6 @@ Highlights:
 *  [EBSI Trusted Issuers List](https://ec.europa.eu/digital-building-blocks/wikis/display/EBSIDOC/Issuers+trust+model+-+Accreditation+of+Issuers)
 
 ### [EU Wallet In Depth #2: No PID, No Problem.](https://www.linkedin.com/pulse/eu-wallet-depth-2-pid-problem-andrew-tobin/)  
-Challenges:
-* ...
-
 Highlights:
 
 > The EUDIW can be used for all sorts of use cases without the citizen having to first load it with a government-certified identity credential (`PID`)
