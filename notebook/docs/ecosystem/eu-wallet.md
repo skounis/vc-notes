@@ -32,3 +32,6 @@ Highlights:
 
 #### eIDAS 2
 * [Explanatory Memorandum](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52021PC0281)
+
+#### Large Scale Pilots
+* [EWC Large Scale Pilot consortium](https://eudiwalletconsortium.org/)
