@@ -32,3 +32,16 @@ Highlights:
 
 #### Large Scale Pilots
 * [EWC Large Scale Pilot consortium](https://eudiwalletconsortium.org/)
+
+### [EU Wallet In Depth #3: Conscious Decoupling?](https://www.linkedin.com/pulse/eu-wallet-dept-3-conscious-decoupling-andrew-tobin/)
+Challenges
+* credential tracking in government-certified and approved wallet apps
+* best privacy capabilities for our citizens
+* decoupling of issuers and verifiers
+
+
+Highlights:
+
+> This means that the issuer of QEAAs cannot track where a holder (a citizen) is using their credentials. It is vital to ensure that a privacy wall exists between the issuer and the verifier (or “relying party”).
+
+> There will be less regulatory oversight of non-qualified issuers
