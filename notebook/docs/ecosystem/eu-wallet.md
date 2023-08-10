@@ -70,3 +70,27 @@ Highlights:
 #### EBSI
 * [Accelerating best use of technologies (DIGITAL-2022-DEPLOY-02)](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/digital-2022-deploy-02-ebsi-services)
 * [Issuers trust model - Accreditation of Issuers](https://ec.europa.eu/digital-building-blocks/wikis/display/EBSIDOC/Issuers+trust+model+-+Accreditation+of+Issuers)
+
+
+### [EU Wallet In Depth #5: Unique Identifiers Explained](https://www.linkedin.com/pulse/eu-wallet-depth-5-unique-identifiers-explained-andrew-tobin/)
+
+Challenges:
+* Unique IDs In Metadata
+* The dangers of correlation via unique identifiers
+* Unique identifiers buried in the metadata of the wallet interaction protocol
+* Identifiers in Metadata (example)
+  * Wallet identifier
+  * Personal decentralized identifier (DID)
+  * Revocation registry index position
+  * Issuer signatures
+
+
+Highlights:
+
+> in the same way that a web cookie or advertising ID can be used to correlate your online actions and profile you, unique identifiers in a credential ecosystem could do the same.
+
+> Imagine you are going for a day out in Paris. You get a taxi from home to the train station, get a ticket, get the train, and get into town. You ask directions, get on the metro, go to several shops, stop for coffee etc etc etc. Imagine if every time you interacted with someone, whether speaking to them or buying a ticket or entering a shop, you had to give them all the same number that is unique to you
+
+> If you have to reveal the same unique identifier every time you interact in a digital credential  ecosystem, everything you do will be trackable.
+
+> issuer signature is unique to that credential, and therefore to you
