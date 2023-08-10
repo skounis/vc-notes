@@ -49,3 +49,24 @@ Highlights:
 > This means that the issuer of QEAAs cannot track where a holder (a citizen) is using their credentials. It is vital to ensure that a privacy wall exists between the issuer and the verifier (or “relying party”).
 
 > There will be less regulatory oversight of non-qualified issuers
+
+
+### [EU Wallet In Depth #4: The Missing Network](https://www.linkedin.com/pulse/eu-wallet-depth-4-missing-network-andrew-tobin/)
+Challenges:
+* verifiable data registry or registries (Layer 1)
+* clear direction of which verifiable data registry to use
+  
+
+Highlights:
+
+> Currently therefore, the ARF is quite “loose” when it comes to specifying where and how such verification information, keys, trusted lists will be stored. This does allow freedom for developers to come up with the best option, but similarly it opens the door for a proliferation of different methods causing confusion and technical complexity.
+
+> These different formats, ISO/IEC 18013-5:2021 and the W3C Verifiable Credentials Data Model 1.1., use different methods for key storage and retrieval, which points to having at least 2 VDRs in the ecosystem. When you add in the fact that individual Member States may implement their PID and EUDIW differently, the number of VDRs could multiply.
+
+
+#### Trust Over IP Foundation
+* [TOIP Model (interactive demo)](https://trustoverip.org/wp-content/toip-model/)
+
+#### EBSI
+* [Accelerating best use of technologies (DIGITAL-2022-DEPLOY-02)](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/digital-2022-deploy-02-ebsi-services)
+* [Issuers trust model - Accreditation of Issuers](https://ec.europa.eu/digital-building-blocks/wikis/display/EBSIDOC/Issuers+trust+model+-+Accreditation+of+Issuers)
