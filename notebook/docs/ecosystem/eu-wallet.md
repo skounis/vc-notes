@@ -5,6 +5,10 @@ sidebar_position: 2
 # EU Wallet
 
 ## In-Depth Articles
+> Now the [EU Digital Identity Wallet](https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/europe-fit-digital-age/european-digital-identity_en) (EUDIW) [Architecture Reference Framework](https://digital-strategy.ec.europa.eu/en/library/european-digital-identity-wallet-architecture-and-reference-framework) (ARF) has been published, we can get a really good insight into the plans for the world’s largest digital credential ecosystem. I’m going deeper into a number of parts of the ARF and give you my thoughts on some key areas that merit further attention.
+>
+> -- _[Andrew Tobin](https://www.linkedin.com/in/tobinandrew/)_
+
 ### [EU Wallet In Depth #1: Trusted Lists](https://www.linkedin.com/pulse/eu-wallet-depth-1-trusted-lists-andrew-tobin/)  
 Challenges:
 * Number of Trusted Lists and Architectural Complexity
