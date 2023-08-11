@@ -94,3 +94,15 @@ Highlights:
 > If you have to reveal the same unique identifier every time you interact in a digital credential  ecosystem, everything you do will be trackable.
 
 > issuer signature is unique to that credential, and therefore to you
+
+### [EU Wallet In Depth #6: Revocation](https://www.linkedin.com/pulse/eu-wallet-depth-6-revocation-andrew-tobin/)
+Challenges: 
+- Phoning Home
+- Unique Revocation Identifiers
+
+Highlights
+> a verifier “phoning home” to an issuer to check the revocation status of a credential informs the issuer who is using their credentials, and where. 
+
+> opens the door to mass correlation and profiling of credential users.
+
+> Putting a revocation index number into the metadata of every credential, which the user has no control over if it is shared or not, runs roughshod through the privacy management that eIDAS 2.0 needs.
