@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkvc_notes=self.webpackChunkvc_notes||[]).push([[7929],{4228:s=>{s.exports=JSON.parse('{"allTagsPath":"/vc-notes/blog/tags","name":"docusaurus","count":4,"permalink":"/vc-notes/blog/tags/docusaurus"}')}}]);
