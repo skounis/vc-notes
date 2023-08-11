@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkvc_notes=self.webpackChunkvc_notes||[]).push([[954],{1583:function(e){e.exports=JSON.parse('{"allTagsPath":"/vc-notes/blog/tags","name":"facebook","count":1,"permalink":"/vc-notes/blog/tags/facebook"}')}}]);
