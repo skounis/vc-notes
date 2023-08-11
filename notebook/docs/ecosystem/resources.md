@@ -9,6 +9,7 @@ sidebar_position: 2
 1. [JSON Web Signature (JWS)](https://datatracker.ietf.org/doc/html/rfc7515)
 2. [JSON Web Encryption (JWE)](https://datatracker.ietf.org/doc/html/rfc7516)
 3. [JSON Web Key (JWK)](https://datatracker.ietf.org/doc/html/rfc7517)
+4. [SD-JWT: Selective Disclosure for JWTs](https://github.com/oauth-wg/oauth-selective-disclosure-jwt)
 
 ## Examples
 
