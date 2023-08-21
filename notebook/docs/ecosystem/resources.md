@@ -5,7 +5,7 @@ sidebar_position: 2
 # Resources and other links
 
 ## Technologies and protocols
-0. [JSON Web Algorithms (JWA)](https://datatracker.ietf.org/doc/html/rfc7518)
+0. [x] [JSON Web Algorithms (JWA)](https://datatracker.ietf.org/doc/html/rfc7518)
 1. [JSON Web Signature (JWS)](https://datatracker.ietf.org/doc/html/rfc7515)
 2. [JSON Web Encryption (JWE)](https://datatracker.ietf.org/doc/html/rfc7516)
 3. [JSON Web Key (JWK)](https://datatracker.ietf.org/doc/html/rfc7517)
