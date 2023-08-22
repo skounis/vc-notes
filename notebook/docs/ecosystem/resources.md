@@ -16,6 +16,9 @@ sidebar_position: 2
 ### CMS Signed Data Example
 * https://github.com/skounis/cms-signed-data/
 
+### JSON Web Token (JWT) Examples
+* https://github.com/skounis/js-jwt
+
 ### JWK
 
 ```json
