@@ -2,7 +2,9 @@
 sidebar_position: 2
 ---
 
-# Decoding the Spectrum: Unveiling the World of Standards-Based Digital Credentials
+# Standards-Based Digital Credentials
+
+> Decoding the Spectrum: Unveiling the World of Standards-Based Digital Credentials
 
 ## Intoduction 
 Explore the insights presented in the article ["Standards-Based Digital Credentials: Flavors Explained” (Whitepaper)](https://medium.com/@identitywoman-in-business/new-paper-and-infographic-on-flavors-of-digital-credentials-released-b9b6ec5b95af) by [Identity Woman in Business](https://medium.com/@identitywoman-in-business). The whitepaper delves into the intricacies of the digital credential landscape, providing a simplified yet technically-accurate overview of the key flavors shaping the standards. As businesses and decision-makers stand at the crossroads of credential implementation choices, understanding these flavors becomes paramount.
@@ -38,5 +40,9 @@ Connecting the introductory exploration of the digital credential landscape, the
   2. Verifiers will likely be able to profile credential holders through their repeated use of a single credential.
   3. Emerging flavors can do ZKP but fall short of preventing cloning of credentials and impersonation.
 
+Finaly the authors have prepared an infographic for explainign and comparing the major flavors: ISO mDL/mDOC, SD-JWT, JSON-JWT, JSON-LD-DI, Data Integrity BBS, AnonCreds
+* https://drive.google.com/file/d/1mZVcGlcxAqQaOr-pBUt6-Amh2NocuaNp/view
+
 ## References
-Read the full "Standards-Based Digital Credentials: Flavors Explained” (Whitepaper) and explore the accompanying infographic [here](https://medium.com/@identitywoman-in-business/new-paper-and-infographic-on-flavors-of-digital-credentials-released-b9b6ec5b95af).
+Read the full ["Standards-Based Digital Credentials: Flavors Explained” (Whitepaper)](https://medium.com/@identitywoman-in-business/new-paper-and-infographic-on-flavors-of-digital-credentials-released-b9b6ec5b95af) and explore the accompanying infographic [here]
+
