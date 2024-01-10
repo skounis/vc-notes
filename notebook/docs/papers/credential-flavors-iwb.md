@@ -80,3 +80,4 @@ Based on the whitepaper, here is an in-depth description of the 6 key flavors of
 ## References
 Read the full ["Standards-Based Digital Credentials: Flavors Explained” (Whitepaper)](https://medium.com/@identitywoman-in-business/new-paper-and-infographic-on-flavors-of-digital-credentials-released-b9b6ec5b95af) and explore the accompanying infographic [here]
 
+Read also a revious version of this work with title Verifiable Credentials Flavors Explained published a part of the [Covid-19 Credentials Initiative (CCI)](https://www.covidcreds.org/)
