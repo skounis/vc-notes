@@ -43,6 +43,40 @@ Connecting the introductory exploration of the digital credential landscape, the
 Finaly the authors have prepared an infographic for explainign and comparing the major flavors: ISO mDL/mDOC, SD-JWT, JSON-JWT, JSON-LD-DI, Data Integrity BBS, AnonCreds
 * https://drive.google.com/file/d/1mZVcGlcxAqQaOr-pBUt6-Amh2NocuaNp/view
 
+
+## The 6 flavors of digital credentials:
+Based on the whitepaper, here is an in-depth description of the 6 key flavors of digital credentials:
+
+### ISO mDL/mDOC
+* **Structured representation:** ISO mDL and mDOC are based on JSON-LD, which provides a structured way to define credential templates, issuers, and holders. This makes it easier to understand and interpret credentials, and it also makes it possible to automated processes that involve credentials.
+* **Support for selective disclosure:** ISO mDL and mDOC support selective disclosure, which means that only certain parts of a credential can be revealed to a verifier. This can be useful for protecting sensitive information, such as personal data.
+* **Widely used:** ISO mDL and mDOC are widely used in a variety of applications, including education, healthcare, and financial services.
+
+### SD-JWT
+* **Specifically designed for credentials:** SD-JWT is a specialized type of JSON Web Token (JWT) that is specifically designed for representing credentials. This makes it more secure and reliable than using JSON-JWT for credentials.
+* **Support for additional claims:** SD-JWT includes additional claims that are not typically found in JSON-JWTs, such as claims for specifying credential issuance context and revocation information. This makes it more versatile than JSON-JWT for representing credentials.
+* **Growing popularity:** SD-JWT is growing in popularity as more and more organizations are adopting digital credentials.
+
+## JSON-JWT
+* **Widely used format:** JSON-JWT is a widely used format for encoding claims in a compact and URL-safe format. This makes it easy to transport and store credentials.
+* **Flexible format:** JSON-JWT is a flexible format that can be used to represent a variety of data, including credentials.
+* **Suitable for basic use:** JSON-JWT is suitable for basic use cases, such as representing simple credentials. However, it is not as secure or reliable as ISO mDL or SD-JWT for representing credentials.
+
+## JSON-LD-DI
+* **Support for data identifiers:** JSON-LD-DI is an extension of JSON-LD that adds support for defining and referencing data identifiers. This makes it a suitable format for representing credentials that contain confidential or sensitive data, as it allows for the data to be encrypted or access-controlled.
+* **Privacy-preserving:** JSON-LD-DI is a privacy-preserving format that can be used to represent credentials without revealing the underlying data. This can be useful for protecting sensitive information.
+* **Emerging technology:** JSON-LD-DI is an emerging technology that is still under development. However, it has the potential to become a widely used format for representing credentials.
+
+## Data Integrity BBS
+* **Verifiable data containers:** Data Integrity BBS is a technique for creating verifiable and tamper-proof data containers. This makes it possible to ensure that data has not been tampered with since it was created.
+* **Tamper-proof:** Data Integrity BBS is tamper-proof, which means that it is not possible to modify the data without invalidating the verification.
+* **Suitable for sensitive data:** Data Integrity BBS is suitable for sensitive data, such as credentials.
+
+## Anoncreds and DI BBS
+* **Privacy-enhancing:** Anoncreds and DI BBS are privacy-enhancing technologies that can be used to represent credentials without revealing the identity of the credential holder. This can be useful for protecting sensitive information.
+* **Zero-knowledge proofs:** Anoncreds and DI BBS use zero-knowledge proofs to verify credential claims without revealing the underlying data. This makes them more privacy-preserving than other credential formats.
+* **Potential for widespread adoption:** Anoncreds and DI BBS have the potential for widespread adoption as organizations look for ways to protect sensitive data while still enabling verification.
+
 ## References
 Read the full ["Standards-Based Digital Credentials: Flavors Explained” (Whitepaper)](https://medium.com/@identitywoman-in-business/new-paper-and-infographic-on-flavors-of-digital-credentials-released-b9b6ec5b95af) and explore the accompanying infographic [here]
 
