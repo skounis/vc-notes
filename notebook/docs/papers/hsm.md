@@ -45,7 +45,7 @@ Using CC HSM certificates offers a number of benefits, including:
 CC HSM certificates are essential for ensuring the security and integrity of HSMs. By using CC HSM certificates, organizations can protect their sensitive data and prevent unauthorized access.
 
 ## References
-Sure, here are some links with information about CC HSM certificates and the technologies mentioned in the overview:
+Here are some links with information about CC HSM certificates and the technologies mentioned in the overview:
 
 * **Common Criteria (CC) for Information Technology Security Evaluation** - [https://www.commoncriteriaportal.org/files/ccfiles/CC2022PART1R1.pdf](https://www.commoncriteriaportal.org/files/ccfiles/CC2022PART1R1.pdf)
 * **CC HSM Certification** - [https://cpl.thalesgroup.com/encryption/hardware-security-modules](https://cpl.thalesgroup.com/encryption/hardware-security-modules)
